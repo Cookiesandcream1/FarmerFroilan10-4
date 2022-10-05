@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FarmerFro.iml" filepath="$PROJECT_DIR$/.idea/FarmerFro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FarmerFroilan10-4/FarmerFroilanTrial.iml" filepath="$PROJECT_DIR$/FarmerFroilan10-4/FarmerFroilanTrial.iml" />
+    </modules>
+  </component>
+</project>
